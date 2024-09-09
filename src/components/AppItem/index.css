@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-item {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  height: 100px;
+  width: 80px !important;
+}
+img {
+  height: 30px;
+}
+.app-name {
+  color: black;
+  font-size: 14px;
+}
